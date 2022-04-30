@@ -1,3 +1,7 @@
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Edmond22-prog&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Edmond22-prog" /> 
+  </p>
+  
 <h1 align="center">Hi guys, i'm Edmond Ghislain MAKOLLE <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h4 align="center">Also know as "Edghi" or "Makol" to other people.
 <h3 align="center">I'm Django Developer, Mobile Developer, Python lover and Otaku</h3>
@@ -40,8 +44,10 @@
 <br>
 <h3>Statistical Data :-</h3>
 
-[![Edghi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edmond22-prog&count_private=true&show_icons=true&theme=prussian)](https://github.com/Edmond22-prog/github-readme-stats)
+[![Edghi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edmond22-prog&count_private=true&show_icons=true&theme=gotham)](https://github.com/Edmond22-prog/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edmond22-prog&theme=prussian)](https://github.com/Edmond22-prog/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edmond22-prog&theme=gotham&layout=compact)](https://github.com/Edmond22-prog/github-readme-stats)
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Edmond22-prog&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Edmond22-prog" /></p>
 
 
