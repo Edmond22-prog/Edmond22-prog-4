@@ -25,6 +25,9 @@
   <a href="https://www.instagram.com/edghi_makolle/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="edghi" height="30" width="40" /></a>
+  <a href="https://wakatime.com/@e6ac0f05-0113-48ea-a8c0-284e220144ad" target="blank"><img align="center"
+      src="https://wakatime.com/static/img/wakatime-logo-text-vertical.png"
+      alt="edghi" height="30" width="30" /></a>
 
 </p>
 
